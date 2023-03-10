@@ -6,6 +6,10 @@ This program is useful or organizations that want to create a short and memorabl
 
 This program is also useful for popular culuture. Such as turning ASAP into As soon as possible. G2G: Got to go, TTYL: Talk to you later and IMO: In my opinion
 
+## Screenshot
+
+<img src="https://github.com/SiyandaMaykiso/Python-Acronym-Generator/blob/main/Screenshot%20Python%20Acronym%20Generator%20.png" alt="application screenshot">
+
 # Installation
 
 1. Download the source code
